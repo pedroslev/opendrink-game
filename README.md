@@ -10,10 +10,10 @@ OpenDrink is a drinking game based on "Podemos Hablar" tv program. Polemic quest
 - Everyone else should make a round facing to the leader or at least on a table. 
 
 ## How to play
--1 The leader taps the next button to get the questions/topics, 
--2 Players who disires to share opinion/experience/thought make themselves visible
--3 Leader leads the talking turns. 
--5 If opinion/experience/thought shared by players are considered true(not a joke or played for the drink) by the group, the players who shared can give half of the amount they are sharing in drinks to anyone playing the game.
+- 1 The leader taps the next button to get the questions/topics, 
+- 2 Players who disires to share opinion/experience/thought make themselves visible
+- 3 Leader leads the talking turns. 
+- 5 If opinion/experience/thought shared by players are considered true(not a joke or played for the drink) by the group, the players who shared can give half of the amount they are sharing in drinks to anyone playing the game.
 
 #### Example:
 scenario: 6 players - 1 leader
